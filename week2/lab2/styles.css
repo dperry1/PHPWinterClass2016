@@ -1,0 +1,22 @@
+form{
+    border: 1px solid black;
+    width: 25%;
+    padding:5px;
+}
+    
+input{
+    float: right;
+}
+
+table{
+    border: 1px solid black;
+    margin-top:5px;
+}
+
+thead{
+    background-color:#9797A6;
+}
+
+tr:hover{
+    color:blue;
+}
