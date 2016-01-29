@@ -76,7 +76,7 @@
                 <input class="form-control" type="text" value="<?php echo $results['phone']; ?>" name="phone" />
             </div>
             <input type="hidden" value="<?php echo $id; ?>" name="id" /> 
-            <input type="submit" value="Update" />
+            <input class="btn btn-default" type="submit" value="Update" />
             <br />
         </form>
     </body>
